@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project involves the creation of a chatbot for a golf course website, specifically for the (made up) "Hillside Forest" golf club. The chatbot provides information about the golf course, its features, membership options, and responds to user queries in a professional manner with golf course etiquette in mind. The chatbot is built using OpenAI's GPT-3.5-turbo model and is integrated into a web application using the Panel library.
+This project involves the creation of a chatbot for a golf course website, specifically for the (made up) "Hillside Forest" golf club. The chatbot provides information about the golf course, its features, membership options, and responds to user queries in a professional manner. The chatbot is built using OpenAI's GPT-3.5-turbo model and is integrated into a web application using the Panel library.
 
 ## Features
 
